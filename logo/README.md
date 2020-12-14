@@ -23,8 +23,6 @@
     </tr>
     <tr>
         <th>color</th>
-
-        </td>
         <td><img src="./vertical/color/aserto-vertical-color.png" width="95"></td>
         <td><img src="./brandmark/color/aserto-brandmark-color.png" width="75"></td>
         <td><img src="./horizontal/color/aserto-horizontal-color.svg" width="200"></td>
