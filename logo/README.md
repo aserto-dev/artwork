@@ -24,7 +24,7 @@
     <tr>
         <th>color</th>
         <td><img src="./horizontal/color/aserto-horizontal-color.png" width="200">
-            <a id="raw-url" href="https://raw.githubusercontent.com/aserto-dev/artwork/master/logo/horizontal/color/aserto-horizontal-color.png">Download</a>               </td>
+            <a id="raw-url" href="https://raw.githubusercontent.com/aserto-dev/artwork/logo/horizontal/color/aserto-horizontal-color.png">Download</a>               </td>
         <td><img src="./vertical/color/aserto-vertical-color.png" width="95"></td>
         <td><img src="./brandmark/color/aserto-brandmark-color.png" width="75"></td>
         <td><img src="./horizontal/color/aserto-horizontal-color.svg" width="200"></td>
