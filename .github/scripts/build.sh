@@ -9,6 +9,7 @@ for i in "${arr[@]}"
 do
     cmd="zip -r ${cwd}/build/${i##*/}.zip . -x 'README.md'"
     cd $i
+    eval $cmd
     cd $cwd
 done
 
