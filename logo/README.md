@@ -1,9 +1,9 @@
 ## Aserto Logos
 Download complete sets of logos:
 <ul>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/horizontal.zip">horizontal.zip</a></li>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/vertical.zip">vertical.zip</a></li>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/brandmark.zip">brandmark.zip</a></li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/horizontal.zip">horizontal.zip</a> (277K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/vertical.zip">vertical.zip</a> (319K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/brandmark.zip">brandmark.zip</a> (343K)</li>
 </ul>
 
 <table>
