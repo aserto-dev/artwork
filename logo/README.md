@@ -1,17 +1,17 @@
 ## Aserto Logos
 Download complete sets of logos by type:
 <ul>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/horizontal.zip">horizontal.zip</a> (277K)</li>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/vertical.zip">vertical.zip</a> (319K)</li>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/brandmark.zip">brandmark.zip</a> (343K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/horizontal.zip">horizontal.zip</a> (277K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/vertical.zip">vertical.zip</a> (319K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/brandmark.zip">brandmark.zip</a> (343K)</li>
 </ul>
 
 Download complete sets of logos by color:
 <ul>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.2/color.zip">color.zip</a> (288K)</li>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.2/black.zip">black.zip</a> (235K)</li>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.2/white.zip">white.zip</a> (252K)</li>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.2/white-text.zip">white-text.zip</a> (163K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/color.zip">color.zip</a> (288K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/black.zip">black.zip</a> (235K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/white.zip">white.zip</a> (252K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/white-text.zip">white-text.zip</a> (163K)</li>
 </ul>
 
 <table>
