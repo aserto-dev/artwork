@@ -1,5 +1,10 @@
 ## Aserto Icons
 
+Download all favicons:
+<ul>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/favicon.zip">favicon.zip</a> (64K)</li>
+</ul>  
+
 
 | File name          | Icon                              |
 | ------------------ | --------------------------------- |
