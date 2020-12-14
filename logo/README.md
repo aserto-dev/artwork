@@ -16,7 +16,7 @@
         <th></th>
         <th>horizontal</th>
         <th>vertical</th>
-        <th>brandmak</th>
+        <th>brandmark</th>
         <th>horizontal</th>
         <th>vertical</th>
         <th>brandmark</th>
@@ -43,10 +43,10 @@
         <th>white</th>
         <td><img src="./horizontal/white/aserto-horizontal-white.png" width="200"></td>
         <td><img src="./vertical/white/aserto-vertical-white.png" width="95"></td>
-        <td><img src="./brandmark/white/aserto-brandmark-white.png" width="75"></td>
+        <td><img src="./brandmark/color/aserto-brandmark-color.png" width="75"></td>
         <td><img src="./horizontal/white/aserto-horizontal-white.svg" width="200"></td>
         <td><img src="./vertical/white/aserto-vertical-white.svg" width="95"></td>
-        <td><img src="./brandmark/white/aserto-brandmark-white.svg" width="75"></td>
+        <td><img src="./brandmark/color/aserto-brandmark-color.svg" width="75"></td>
     </tr>
     <tr>
     </tr>
