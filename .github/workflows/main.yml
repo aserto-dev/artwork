@@ -14,10 +14,11 @@ jobs:
     - name: build-zips
       run: .github/scripts/build.sh
 
-    - name: upload
+    - name: release-zips
       uses: ncipollo/release-action@v1
       with:
         artifacts: "build/*.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
         name: "Aserto artwork release"
         omitBody: true
+        tag: latest
