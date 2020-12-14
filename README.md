@@ -1,5 +1,5 @@
 ## Aserto Artwork
 
-* [Icons](./favicon/README.md)
+* [Favicons](./favicon/README.md)
 * [Logos](./logo/README.md)
 
