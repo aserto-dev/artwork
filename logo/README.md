@@ -1,7 +1,10 @@
 ## Aserto Logos
-
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
-
+Download complete sets of logos:
+<ul>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/horizontal.zip">horizontal.zip</a></li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/vertical.zip">vertical.zip</a></li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/brandmark.zip">brandmark.zip</a></li>
+</ul>
 
 <table>
     <tr>
