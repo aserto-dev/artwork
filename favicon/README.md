@@ -2,7 +2,7 @@
 
 Download all favicons:
 <ul>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/v0.0.1/favicon.zip">favicon.zip</a> (64K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/favicon.zip">favicon.zip</a> (64K)</li>
 </ul>  
 
 
