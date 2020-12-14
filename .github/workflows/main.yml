@@ -1,0 +1,23 @@
+on:
+  push:
+    tags:
+    - '*'
+
+jobs:
+  test_action_job:
+    runs-on: ubuntu-latest
+    name: build
+    steps:
+    
+    - uses: actions/checkout@v2
+
+    - name: build-zips
+      run: .github/scripts/build.sh
+
+    - name: upload
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "build/*.zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
+        name: "Aserto artwork release"
+        omitBody: true
