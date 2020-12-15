@@ -84,6 +84,13 @@ Download complete sets of logos by file type:
         <td><img src="./brandmark/white/aserto-brandmark-white.svg" width="75"></td>
     </tr>
     <tr>
+        <th></th>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
     </tr>
     <tr>
         <th>White Text</th>
@@ -93,5 +100,14 @@ Download complete sets of logos by file type:
         <td><img src="./horizontal/white-text/aserto-horizontal-white-text.svg" width="200"></td>
         <td><img src="./vertical/white-text/aserto-vertical-color-white-text.svg" width="95"></td>
         <td><img src="./brandmark/color/aserto-brandmark-color.svg" width="75"></td>
+    </tr>
+        <tr>
+        <th></th>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
     </tr>
 </table>
