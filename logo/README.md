@@ -40,7 +40,12 @@ Download complete sets of logos by file type:
     </tr>
     <tr>
         <th>Color</th>
-        <td><img src="./horizontal/color/aserto-horizontal-color.png" width="200"></td>
+        <td> 
+            <a href="./horizontal/color/aserto-horizontal-color.png" download="aserto-horizontal-color.png">
+                <img src="./horizontal/color/aserto-horizontal-color.png" width="200">
+            </a>
+        </td>
+<!--         <td><img src="./horizontal/color/aserto-horizontal-color.png" width="200"></td> -->
         <td><img src="./vertical/color/aserto-vertical-color.png" width="95"></td>
         <td><img src="./brandmark/color/aserto-brandmark-color.png" width="75"></td>
         <td><img src="./horizontal/color/aserto-horizontal-color.svg" width="200"></td>
