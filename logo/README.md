@@ -40,12 +40,7 @@ Download complete sets of logos by file type:
     </tr>
     <tr>
         <th>Color</th>
-        <td> 
-            <a href="./horizontal/color/aserto-horizontal-color.png" download="aserto-horizontal-color.png">
-                <img src="./horizontal/color/aserto-horizontal-color.png" width="200">
-            </a>
-        </td>
-<!--         <td><img src="./horizontal/color/aserto-horizontal-color.png" width="200"></td> -->
+        <td><img src="./horizontal/color/aserto-horizontal-color.png" width="200"></td>
         <td><img src="./vertical/color/aserto-vertical-color.png" width="95"></td>
         <td><img src="./brandmark/color/aserto-brandmark-color.png" width="75"></td>
         <td><img src="./horizontal/color/aserto-horizontal-color.svg" width="200"></td>
@@ -54,12 +49,12 @@ Download complete sets of logos by file type:
     </tr>
     <tr>
         <th></th>
-        <td><a download="aserto-horizontal-color.png" href="https://raw.githubusercontent.com/aserto-dev/artwork/main/logo/horizontal/color/aserto-horizontal-color.png">Download</a></td>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>  
     <tr>
         <th>Black</th>
@@ -72,12 +67,12 @@ Download complete sets of logos by file type:
     </tr>
     <tr>
         <th></th>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr> 
     <tr>
         <th>White</th>
@@ -90,13 +85,13 @@ Download complete sets of logos by file type:
     </tr>
     <tr>
         <th></th>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-    </tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr> 
     <tr>
         <th>White Text</th>
         <td><img src="./horizontal/white-text/aserto-horizontal-white-text.png" width="200"></td>
@@ -106,13 +101,13 @@ Download complete sets of logos by file type:
         <td><img src="./vertical/white-text/aserto-vertical-color-white-text.svg" width="95"></td>
         <td><img src="./brandmark/color/aserto-brandmark-color.svg" width="75"></td>
     </tr>
-        <tr>
+    <tr>
         <th></th>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-        <td>Download</td>
-    </tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr> 
 </table>
