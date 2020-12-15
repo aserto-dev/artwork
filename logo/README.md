@@ -39,7 +39,7 @@ Download complete sets of logos by file type:
         <th>brandmark</th>
     </tr>
     <tr>
-        <th>color</th>
+        <th>Color</th>
         <td><img src="./horizontal/color/aserto-horizontal-color.png" width="200"></td>
         <td><img src="./vertical/color/aserto-vertical-color.png" width="95"></td>
         <td><img src="./brandmark/color/aserto-brandmark-color.png" width="75"></td>
@@ -48,7 +48,7 @@ Download complete sets of logos by file type:
         <td><img src="./brandmark/color/aserto-brandmark-color.svg" width="75"></td>
     </tr>
     <tr>
-        <th>color Downloads</th>
+        <th></th>
         <td><a href="https://raw.githubusercontent.com/aserto-dev/artwork/master/logo/horizontal/color/aserto-horizontal-color.png">aserto-horizontal-color.png</a></td>
         <td>Download</td>
         <td>Download</td>
@@ -57,7 +57,7 @@ Download complete sets of logos by file type:
         <td>Download</td>
     </tr>  
     <tr>
-        <th>black</th>
+        <th>Black</th>
         <td><img src="./horizontal/black/aserto-horizontal-black.png" width="200"></td>
         <td><img src="./vertical/black/aserto-vertical-black.png" width="95"></td>
         <td><img src="./brandmark/black/aserto-brandmark-black.png" width="75"></td>
@@ -66,7 +66,7 @@ Download complete sets of logos by file type:
         <td><img src="./brandmark/black/aserto-brandmark-black.svg" width="75"></td>
     </tr>
     <tr>
-        <th>white</th>
+        <th>White</th>
         <td><img src="./horizontal/white/aserto-horizontal-white.png" width="200"></td>
         <td><img src="./vertical/white/aserto-vertical-white.png" width="95"></td>
         <td><img src="./brandmark/white/aserto-brandmark-white.png" width="75"></td>
@@ -77,7 +77,7 @@ Download complete sets of logos by file type:
     <tr>
     </tr>
     <tr>
-        <th>white text</th>
+        <th>White Text</th>
         <td><img src="./horizontal/white-text/aserto-horizontal-white-text.png" width="200"></td>
         <td><img src="./vertical/white-text/aserto-vertical-color-white-text.png" width="95"></td>
         <td><img src="./brandmark/color/aserto-brandmark-color.png" width="75"></td>
