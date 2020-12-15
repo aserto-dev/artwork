@@ -1,17 +1,23 @@
 ## Aserto Logos
 Download complete sets of logos by type:
 <ul>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/horizontal.zip">horizontal.zip</a> (277K)</li>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/vertical.zip">vertical.zip</a> (319K)</li>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/brandmark.zip">brandmark.zip</a> (343K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/aserto-logos-horizontal.zip">aserto-logos-horizontal.zip</a> (283K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/aserto-logos-vertical.zip">aserto-logos-vertical.zip</a> (326K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/aserto-logos-brandmark.zip">aserto-logos-brandmark.zip</a> (351K)</li>
 </ul>
 
 Download complete sets of logos by color:
 <ul>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/color.zip">color.zip</a> (288K)</li>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/black.zip">black.zip</a> (235K)</li>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/white.zip">white.zip</a> (252K)</li>
-  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/white-text.zip">white-text.zip</a> (163K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/aserto-logos-color.zip">aserto-logos-color.zip</a> (295K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/aserto-logos-black.zip">aserto-logos-black.zip</a> (240K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/aserto-logos-white.zip">aserto-logos-white.zip</a> (259K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/aserto-logos-white-text.zip">aserto-logos-white-text.zip</a> (167K)</li>
+</ul>
+
+Download complete sets of logos by file type:
+<ul>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/aserto-logos-png.zip">aserto-logos-png.zip</a> (937K)</li>
+  <li><a href="https://github.com/aserto-dev/artwork/releases/download/latest/aserto-logos-svg.zip">aserto-logos-svg.zip</a> (24K)</li>
 </ul>
 
 <table>

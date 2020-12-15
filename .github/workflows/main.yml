@@ -14,11 +14,11 @@ jobs:
     - name: build-zips
       run: .github/scripts/build.sh
 
-    - uses: "marvinpinto/action-automatic-releases@latest"
+    - name: release-zips
+      uses: ncipollo/release-action@v1
       with:
-        repo_token: "${{ secrets.GITHUB_TOKEN }}"
-        automatic_release_tag: "latest"
-        prerelease: false
-        title: "Aserto artwork release"
-        files: |
-            build/*.zip
+        artifacts: "build/*.zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
+        name: "Aserto artwork release"
+        omitBody: true
+        tag: latest
