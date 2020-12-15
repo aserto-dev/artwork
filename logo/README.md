@@ -48,6 +48,15 @@ Download complete sets of logos by file type:
         <td><img src="./brandmark/color/aserto-brandmark-color.svg" width="75"></td>
     </tr>
     <tr>
+        <th>color Downloads</th>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+    </tr>  
+    <tr>
         <th>black</th>
         <td><img src="./horizontal/black/aserto-horizontal-black.png" width="200"></td>
         <td><img src="./vertical/black/aserto-vertical-black.png" width="95"></td>
