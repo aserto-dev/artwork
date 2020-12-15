@@ -31,12 +31,12 @@ Download complete sets of logos by file type:
     </tr>
     <tr>
         <th></th>
-        <th>horizontal</th>
-        <th>vertical</th>
-        <th>brandmark</th>
-        <th>horizontal</th>
-        <th>vertical</th>
-        <th>brandmark</th>
+        <th>Horizontal</th>
+        <th>Vertical</th>
+        <th>Brandmark</th>
+        <th>Horizontal</th>
+        <th>Vertical</th>
+        <th>Brandmark</th>
     </tr>
     <tr>
         <th>Color</th>
@@ -65,6 +65,15 @@ Download complete sets of logos by file type:
         <td><img src="./vertical/black/aserto-vertical-black.svg" width="95"></td>
         <td><img src="./brandmark/black/aserto-brandmark-black.svg" width="75"></td>
     </tr>
+        <tr>
+        <th></th>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+        <td>Download</td>
+    </tr> 
     <tr>
         <th>White</th>
         <td><img src="./horizontal/white/aserto-horizontal-white.png" width="200"></td>
