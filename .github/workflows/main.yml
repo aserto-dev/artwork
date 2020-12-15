@@ -22,4 +22,4 @@ jobs:
         prerelease: false
         title: "Aserto artwork release"
         files: |
-          *.zip
+          build/*.zip
