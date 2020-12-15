@@ -48,13 +48,13 @@ Download complete sets of logos by file type:
         <td><img src="./brandmark/color/aserto-brandmark-color.svg" width="75"></td>
     </tr>
     <tr>
-        <th></th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <th> </th>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
     </tr>  
     <tr>
         <th>Black</th>
@@ -66,13 +66,13 @@ Download complete sets of logos by file type:
         <td><img src="./brandmark/black/aserto-brandmark-black.svg" width="75"></td>
     </tr>
     <tr>
-        <th></th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <th> </th>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
     </tr> 
     <tr>
         <th>White</th>
@@ -84,13 +84,13 @@ Download complete sets of logos by file type:
         <td><img src="./brandmark/white/aserto-brandmark-white.svg" width="75"></td>
     </tr>
     <tr>
-        <th></th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <th> </th>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
     </tr> 
     <tr>
         <th>White Text</th>
@@ -102,12 +102,12 @@ Download complete sets of logos by file type:
         <td><img src="./brandmark/color/aserto-brandmark-color.svg" width="75"></td>
     </tr>
     <tr>
-        <th></th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <th> </th>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
     </tr> 
 </table>
