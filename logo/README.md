@@ -49,7 +49,7 @@ Download complete sets of logos by file type:
     </tr>
     <tr>
         <th></th>
-        <td><a download='aserto-horizontal-color.png' href="https://raw.githubusercontent.com/aserto-dev/artwork/main/logo/horizontal/color/aserto-horizontal-color.png">Download</a></td>
+        <td><a download="aserto-horizontal-color.png" href="https://raw.githubusercontent.com/aserto-dev/artwork/main/logo/horizontal/color/aserto-horizontal-color.png">Download</a></td>
         <td>Download</td>
         <td>Download</td>
         <td>Download</td>
